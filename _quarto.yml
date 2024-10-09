@@ -1,0 +1,12 @@
+project:
+  title: "Bio-110-Graded-Web-Tutorials"
+  type: website
+  output-dir: docs
+
+
+
+website:
+  title: "BIO 110 Graded Web Tutorials"
+  navbar: 
+    left: 
+      - Bio110_lesson_one.qmd
